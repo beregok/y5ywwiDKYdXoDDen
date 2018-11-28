@@ -6,10 +6,9 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Лимонад
-tagline:          'Веб-вест'
-description:      'Web-квест. Проблемне завдання
-з елементами рольової гри'
+title:            КВЕСТ
+tagline:          'Лимонад'
+description:      'Спробуй лимонад. Проблемне завдання з елементами рольової гри'
 url:              http://limonad.netlify.com
 baseurl:          /
 
