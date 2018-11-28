@@ -195,6 +195,15 @@ a.sidebar-nav-item:focus {
   color: #d28445;
 }
 
+/* LIMONAD */
+.theme-base-09l .sidebar {
+  background-color: #fb8700;
+}
+.theme-base-09l .content a,
+.theme-base-09l .related-posts li a:hover {
+  color: #d28445;
+}
+
 /* Yellow */
 .theme-base-0a .sidebar {
   background-color: #f4bf75;
