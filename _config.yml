@@ -20,3 +20,14 @@ paginate:         1
 
 github:
   repo:           https://github.com/beregok/y5ywwiDKYdXoDDen
+
+# Compress
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
